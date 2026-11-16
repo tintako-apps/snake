@@ -2,7 +2,7 @@
 
 # Snake
 
-A nostalgic retro game: the classic snake, made for the Mudita Kompakt E Ink phone. Fully offline, with no score, timer or streaks, and no permissions.
+A nostalgic retro game: the classic snake, made for E Ink. Fully offline, with no score, timer or streaks, and no permissions.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J4V82A4UVG)
 
@@ -19,4 +19,4 @@ A nostalgic retro game: the classic snake, made for the Mudita Kompakt E Ink pho
 Fully offline: the app has no internet permission, asks for no phone permissions and uses no Google services.
 
 ## Install
-Download the latest APK from [Releases](../../releases/latest) and install it on your Kompakt with Mudita Center.
+Download the latest APK from [Releases](../../releases/latest) and install it on your E Ink device.
